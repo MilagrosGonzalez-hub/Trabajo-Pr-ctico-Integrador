@@ -8,11 +8,8 @@ Descripción: Este programa permite al usuario de manera sencilla llevar un cont
 - Modificar el estado de un reclamo (pendiente, resuelto, en proceso).
 - Mostrar reclamos ordenados por fecha o estado.
 Instrucciones: esencialmente se debe contar con compilador de lenguaje c instalado.
-1- Descargar ZinjaI (incluye su propio compilador)
--Ir a: https://zinjai.sourceforge.net
--Elegir la versión para Windows.
--Descargar el archivo .exe y seguir los pasos del instalador.
--Ir a: https://zinjai.sourceforge.net
-- Buscar reclamos según nombre, tipo o estado.
-- Modificar el estado de un reclamo (pendiente, resuelto, en proceso).
-- Mostrar reclamos ordenados por fecha o estado.
+1. **Descargar ZinjaI** (incluye su propio compilador)
+   - ir a https://zinjai.sourceforge.net
+   - Seleccionar la versión para **Windows**.
+   - Descarga el archivo `.exe`.
+   - Ejecutar el instalador y seguir los pasos en pantalla.
