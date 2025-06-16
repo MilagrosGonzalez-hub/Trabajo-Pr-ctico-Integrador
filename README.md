@@ -12,3 +12,7 @@ Instrucciones: esencialmente se debe contar con compilador de lenguaje c instala
 -Ir a: https://zinjai.sourceforge.net
 -Elegir la versión para Windows.
 -Descargar el archivo .exe y seguir los pasos del instalador.
+-Ir a: https://zinjai.sourceforge.net
+- Buscar reclamos según nombre, tipo o estado.
+- Modificar el estado de un reclamo (pendiente, resuelto, en proceso).
+- Mostrar reclamos ordenados por fecha o estado.
