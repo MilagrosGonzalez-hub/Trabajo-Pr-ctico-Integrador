@@ -25,6 +25,6 @@ Se emplearon ademas funciones de entrada (scanf, fgets). El scanf () para la lec
 -UNIDAD 3: sentencias de control e iteracion;
 Para la estructura de decision, se emplean If-else y switch; el If-else para las validaciones, control de errores y para dirigir el flujo del programa. Y el switch es para el menú interactivo, permitiendo seleccionar eficientemente la función a ejecutar. Para la estructura de Iteracion se utilizaron las sentencias for y do-while; el for para recorrer los arreglos y emplea un bucle do-while para el menu principal, asegurando que el menu se muestre al menos una vez y se repita hasta que el usuario decida salir. 
 
--UNIDAD 4: 
+-UNIDAD 4: Arreglos, Cadenas y Estructuras Dinámicas (Archivos);
 
 
