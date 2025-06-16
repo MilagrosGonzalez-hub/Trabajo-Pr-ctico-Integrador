@@ -21,3 +21,6 @@ El programa presenta una estructura básica en lenguaje C teniendo en el, direct
 Se utilizó struct para definir un tipo de dato (Reclamo) que agrupa información relacionada. Empleando así, un arreglo estático de estas estructuras (Reclamo reclamos[MAX_RECLAMOS]) para almacenar la colección de reclamos en memoria.  Dicha estructura, agrupa tipos de datos primitivos como; nombre, dirección, tipo y fecha. Los (char, int) se utilizan para definir las cantidades y opciones con valores enteros en el dominio del programa. Los operadores matemáticos se vieron reflejados al usar las sentencias aprendidas como ser: Relacionales: Operadores como < o >;  (idx < 1 || idx > cantidad). == (igualdad) y != (desigualdad) que son omnipresentes en las comparaciones de cadenas (strcmp(criterio, "nombre") == 0) y validaciones de entrada (scanf("%d", &opcion) != 1).
 Lógicos: && (AND lógico) y || (OR lógico) son cruciales en la función buscarReclamos(), permitiendo combinar múltiples condiciones para la búsqueda ((criterio == "nombre" && strstr(nombre, valor)) || (criterio == "tipo" && strstr(tipo, valor))).
 Se emplearon ademas funciones de entrada (scanf, fgets). El scanf () para la lectura de enteros (la opción del menú, el índice del reclamo), y el fgets () para la lectura de cadenas (leerCadena()).
+
+-UNIDAD 3: sentencias de control e iteracion 
+
