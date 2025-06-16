@@ -1,7 +1,7 @@
 # Trabajo-Pr-ctico-Integrador
 Com.3-Grupo Noche
 Integrantes: -Cruz Micaela. rol:desarrollar el programa
-             -Gonzalez Milagros. rol: crear el Readme/repositorio/
+             -Gonzalez Milagros. rol: crear el Readme/repositorio,ayudar brevemente con el desarrollo
 Descripción: Este programa permite al usuario de manera sencilla llevar un control de los reclamos que se hayan hecho en la vecindad. Además de: 
 -Agregar nuevos reclamos vecinales.
 - Buscar reclamos según nombre, tipo o estado.
