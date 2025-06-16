@@ -1,2 +1,9 @@
 # Trabajo-Pr-ctico-Integrador
-Com.3
+Com.3-Grupo Noche
+Integrantes: -Cruz Micaela
+             -Gonzalez Milagros. rol: crear el Readme
+Descripción: Este programa permite al usuario de manera sencilla llevar un control de los reclamos que se hayan hecho en la vecindad. Además de: 
+-Agregar nuevos reclamos vecinales.
+- Buscar reclamos según nombre, tipo o estado.
+- Modificar el estado de un reclamo (pendiente, resuelto, en proceso).
+- Mostrar reclamos ordenados por fecha o estado.
