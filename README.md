@@ -22,5 +22,6 @@ Se utilizó struct para definir un tipo de dato (Reclamo) que agrupa informació
 Lógicos: && (AND lógico) y || (OR lógico) son cruciales en la función buscarReclamos(), permitiendo combinar múltiples condiciones para la búsqueda ((criterio == "nombre" && strstr(nombre, valor)) || (criterio == "tipo" && strstr(tipo, valor))).
 Se emplearon ademas funciones de entrada (scanf, fgets). El scanf () para la lectura de enteros (la opción del menú, el índice del reclamo), y el fgets () para la lectura de cadenas (leerCadena()).
 
--UNIDAD 3: sentencias de control e iteracion 
+-UNIDAD 3: sentencias de control e iteracion;
+Para la estructura de decision, se emplean If-else para las validaciones 
 
