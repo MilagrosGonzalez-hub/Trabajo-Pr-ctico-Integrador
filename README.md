@@ -23,5 +23,7 @@ Lógicos: && (AND lógico) y || (OR lógico) son cruciales en la función buscar
 Se emplearon ademas funciones de entrada (scanf, fgets). El scanf () para la lectura de enteros (la opción del menú, el índice del reclamo), y el fgets () para la lectura de cadenas (leerCadena()).
 
 -UNIDAD 3: sentencias de control e iteracion;
-Para la estructura de decision, se emplean If-else para las validaciones 
+Para la estructura de decision, se emplean If-else y switch; el If-else para las validaciones, control de errores y para dirigir el flujo del programa. Y el switch es para el menú interactivo, permitiendo seleccionar eficientemente la función a ejecutar. Para la estructura de Iteracion se utilizaron las sentencias for y do-while; el for para recorrer los arreglos y emplea un bucle do-while para el menu principal, asegurando que el menu se muestre al menos una vez y se repita hasta que el usuario decida salir. 
+
+
 
